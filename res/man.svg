@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 498.4 498.4"
+   xml:space="preserve"
+   sodipodi:docname="man.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:export-filename="C:\Users\lucab\Dev\cruciani-stylist\res\camicia_bianca_cravatta_rossa.png"
+   inkscape:export-xdpi="98.620003"
+   inkscape:export-ydpi="98.620003"
+   width="498.39999"
+   height="498.39999"><metadata
+   id="metadata3849"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs3847" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1017"
+   id="namedview3845"
+   showgrid="false"
+   inkscape:zoom="0.60155151"
+   inkscape:cx="136.99133"
+   inkscape:cy="45.365997"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+
+
+
+
+
+
+
+<polygon
+   id="tessuto_camicia"
+   points="249.2,20 351.6,34.4 249.2,404.8 146.8,34.4 "
+   style="display:inline;fill:#e6e6e6;fill-opacity:0.95537193"
+   inkscape:label="tessuto_camicia" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<g
+   id="bottoni_camicia"
+   inkscape:label="bottoni_camicia"
+   style="display:inline"><g
+     transform="translate(1.1754712)"
+     id="bottone_4"
+     inkscape:label="bottone_4"><circle
+       style="fill:#333333;stroke-width:0.43122327"
+       cx="247.39366"
+       cy="347.30878"
+       r="9.3144226"
+       id="bottone_4_ombra"
+       inkscape:label="bottone_4_ombra" /><path
+       inkscape:connector-curvature="0"
+       style="fill:#666666;stroke-width:0.43122327"
+       d="m 253.94826,340.40919 c 3.79477,3.79477 3.79477,9.65941 0,13.45417 -3.79476,3.79476 -9.6594,3.79476 -13.45417,0"
+       id="bottone_4_luce"
+       inkscape:label="bottone_4_luce" /></g><g
+     transform="translate(1.1754717,47.410696)"
+     id="bottone_3"
+     inkscape:label="bottone_3"><circle
+       style="fill:#333333;stroke-width:0.43122327"
+       cx="249.15688"
+       cy="234.46347"
+       r="9.3144226"
+       id="bottone_3_ombra"
+       inkscape:label="bottone_3_ombra" /><path
+       inkscape:connector-curvature="0"
+       style="fill:#666666;stroke-width:0.43122327"
+       d="m 255.71147,227.56391 c 3.79477,3.79477 3.79477,9.65941 0,13.45417 -3.79476,3.79476 -9.6594,3.79476 -13.45417,0"
+       id="bottone_3_luce"
+       inkscape:label="bottone_3_luce" /></g><g
+     transform="translate(1.1754717,28.994971)"
+     id="bottone_2"
+     inkscape:label="bottone_2"><circle
+       style="fill:#333333;stroke-width:0.43122327"
+       cx="249.15688"
+       cy="187.44461"
+       r="9.3144226"
+       id="bottone_2_ombra"
+       inkscape:label="bottone_2_ombra" /><path
+       inkscape:connector-curvature="0"
+       style="fill:#666666;stroke-width:0.43122327"
+       d="m 255.71147,180.54505 c 3.79477,3.79477 3.79477,9.6594 0,13.45416 -3.79476,3.79476 -9.6594,3.79476 -13.45417,0"
+       id="bottone_2_luce"
+       inkscape:label="bottone_2_luce" /></g><g
+     transform="translate(1.1754717,6.4651248)"
+     id="bottone_1"
+     inkscape:label="bottone_1"><circle
+       style="fill:#333333;stroke-width:0.43122327"
+       cx="247.9814"
+       cy="144.53989"
+       r="9.3144226"
+       id="bottone_1_ombra"
+       inkscape:label="bottone_1_ombra" /><path
+       inkscape:connector-curvature="0"
+       style="fill:#666666;stroke-width:0.43122327"
+       d="m 254.536,137.64032 c 3.79477,3.79477 3.79477,9.65941 0,13.45417 -3.79476,3.79476 -9.6594,3.79476 -13.45417,0"
+       id="bottone_1_luce"
+       inkscape:label="bottone_1_luce" /></g></g><g
+   id="cravatta"
+   transform="translate(-0.1074993,0.0600919)"
+   inkscape:label="cravatta"
+   style="display:inline;fill:#b3b3b3"><polygon
+     id="cravatta_luce"
+     points="261.2,114.4 237.2,114.4 206.8,323.2 249.2,410.4 291.6,322.4 "
+     style="fill:#800000"
+     transform="translate(-0.58774113,18.137732)"
+     inkscape:label="cravatta_luce" /><polygon
+     id="cravatta_ombra"
+     points="291.6,323.2 261.2,114.4 249.2,114.4 249.2,410.4 249.2,411.2 "
+     style="fill:#550000"
+     transform="translate(-0.58774113,18.137732)"
+     inkscape:label="cravatta_ombra" /></g><path
+   id="giacca"
+   style="display:inline;fill:#1a1a1a"
+   d="M 105.19922,42.400391 C 57.999218,42.400391 17.199219,81.6 17.199219,128 v 288 c 0,47.2 40.799999,82.40039 88.000001,82.40039 h 288 c 47.2,0 88,-35.19961 88,-81.59961 v -288 c 0,-47.199998 -40.8,-86.400389 -88,-86.400389 h -44 l -100,361.599609 -100,-361.599609 z"
+   inkscape:connector-curvature="0" /><g
+   style="display:inline;fill:#000000"
+   id="colletto_giacca"
+   inkscape:label="colletto_giacca">
+	<polygon
+   id="colletto_giacca_sinistra"
+   points="90.8,43.2 150,24.8 153.2,41.6 249.2,409.6 79.6,149.6 126,80 85.2,60 "
+   style="fill:#000000"
+   inkscape:label="colletto_giacca_sinistra" />
+	<polygon
+   id="colletto_giacca_destra"
+   points="418.8,149.6 372.4,80 413.2,60 407.6,43.2 348.4,24.8 345.2,41.6 249.2,409.6 "
+   style="display:inline;fill:#000000"
+   inkscape:label="colletto_giacca_destra" />
+</g><g
+   id="bottone_giacca"
+   inkscape:label="bottone_giacca"><circle
+     id="bottone_giacca_ombra"
+     r="21.6"
+     cy="449.60001"
+     cx="249.2"
+     style="fill:#333333"
+     inkscape:label="bottone_giacca_ombra" /><path
+     id="bottone_giacca_luce"
+     d="m 264.4,433.6 c 8.8,8.8 8.8,22.4 0,31.2 -8.8,8.8 -22.4,8.8 -31.2,0"
+     style="display:inline;fill:#666666"
+     inkscape:connector-curvature="0"
+     inkscape:label="bottone_giacca_luce" /></g><rect
+   x="353.20001"
+   y="306.39999"
+   style="display:inline;fill:#333333"
+   width="96"
+   height="16"
+   id="taschino_giacca"
+   inkscape:label="taschino_giacca" /><g
+   style="display:inline;fill:#ffffff;fill-opacity:0.87272728"
+   id="colletto_camicia"
+   inkscape:label="colletto_camicia">
+	<polygon
+   id="colletto_camicia_sinistra"
+   points="246.8,113.6 213.2,12 139.6,22.4 166.8,122.4 202.8,199.2 "
+   style="fill:#ffffff;fill-opacity:1"
+   inkscape:label="colletto_camicia_sinistra" />
+	<polygon
+   id="colletto_camicia_destra"
+   points="251.6,113.6 285.2,12 358.8,22.4 331.6,122.4 295.6,199.2 "
+   style="fill:#ffffff;fill-opacity:1"
+   inkscape:label="colletto_camicia_destra" />
+</g><g
+   id="papillon"
+   transform="matrix(1.0929291,0,0,1.0929291,-128.50566,6.343953)"
+   inkscape:label="papillon"
+   style="display:none"><path
+     id="nodo_papillon"
+     d="m 328.21449,118.29416 0.60005,25.33746 -0.60005,-25.33746 v 5.79755 h -17.39264 c -3.2017,0 -5.79755,2.59585 -5.79755,5.79755 0,3.20169 2.59585,5.79754 5.79755,5.79754 h 17.39264 v 5.79755 c 0,3.2017 2.59585,5.79755 5.79755,5.79755 h 5.79754 11.5951 5.79755 c 3.20169,0 5.79754,-2.59585 5.79754,-5.79755 v -5.79755 h 17.39265 c 3.20169,0 5.79754,-2.59585 5.79754,-5.79754 0,-3.2017 -2.59585,-5.79755 -5.79754,-5.79755 h -17.39265 v -5.79755 c 0,-3.20169 -2.59585,-5.79755 -5.79754,-5.79755 h -11.5951 -11.59509 c -3.2017,0 -5.79755,2.59586 -5.79755,5.79755 z"
+     style="fill:#1a1a1a;stroke-width:0.72469342"
+     inkscape:connector-curvature="0"
+     inkscape:label="nodo_papillon" /><g
+     id="ali_papillon"
+     inkscape:label="ali_papillon"
+     style="display:inline;fill:#333333"><path
+       inkscape:connector-curvature="0"
+       style="fill:#333333;stroke-width:0.72469342"
+       d="m 328.21449,135.6868 h -17.39264 c -3.2017,0 -5.79755,-2.59585 -5.79755,-5.79754 0,-3.2017 2.59585,-5.79755 5.79755,-5.79755 h 17.39264 v -5.79755 L 293.26325,98.876729 c -7.72813,-4.293808 -17.22596,1.295021 -17.22596,10.136281 v 26.67452 15.07942 c 0,8.84126 9.49783,14.42937 17.22596,10.13628 l 7.81944,-4.34381 24.06345,-13.36842 3.06907,-1.7052 v -5.799 z"
+       id="ali_papillon_sinistra"
+       inkscape:label="ali_papillon_sinistra" /><path
+       inkscape:connector-curvature="0"
+       style="fill:#333333;stroke-width:0.72469342"
+       d="m 415.1777,109.01229 c 0,-8.84126 -9.49783,-14.429369 -17.22596,-10.136286 l -34.95197,19.417436 v 5.79754 h 17.39265 c 3.20169,0 5.79754,2.59586 5.79754,5.79755 0,3.2017 -2.59585,5.79755 -5.79754,5.79755 h -17.39265 v 5.79755 l 3.06908,1.7052 24.06344,13.36842 7.81945,4.34381 c 7.72885,4.29381 17.22596,-1.29503 17.22596,-10.13629 V 135.6868 Z"
+       id="ali_papillon_destra"
+       inkscape:label="ali_papillon_destra" /></g></g><g
+   id="collo_camicia"
+   inkscape:label="collo_camicia"
+   style="display:inline"><path
+     id="luce_collo"
+     d="m 340.4,33.6 c 0,28 -40.8,100 -91.2,100 -50.4,0 -91.2,-72 -91.2,-100 0,-28 40.8,-33.6 91.2,-33.6 50.4,0 91.2,4.8 91.2,33.6 z"
+     style="fill:#a8a8a8"
+     inkscape:connector-curvature="0"
+     inkscape:label="luce_collo" /><path
+     id="ombra_collo"
+     d="m 249.2,22.4 c 44.8,0 82.4,4 89.6,21.6 0.8,-4 1.6,-7.2 1.6,-10.4 C 340.4,5.6 299.6,0 249.2,0 198.8,0 158,4.8 158,33.6 c 0,3.2 0.8,6.4 1.6,10.4 7.2,-17.6 44.8,-21.6 89.6,-21.6 z"
+     style="fill:#8c8c8c"
+     inkscape:connector-curvature="0"
+     inkscape:label="ombra_collo" /></g><g
+   id="g4288"
+   transform="matrix(0.4937963,0,0,0.4937963,121.54595,10.671895)"
+   inkscape:label="sciarpa"
+   style="display:none"><g
+     id="g4206"
+     style="fill:#782121">
+	<rect
+   id="rect4200"
+   height="66.494003"
+   width="39.896"
+   style="fill:#782121"
+   y="325.81799"
+   x="16.622999" />
+	<rect
+   id="rect4202"
+   height="66.494003"
+   width="39.896"
+   style="fill:#782121"
+   y="325.81799"
+   x="176.20799" />
+	<rect
+   id="rect4204"
+   height="66.494003"
+   width="39.896"
+   style="fill:#782121"
+   y="325.81799"
+   x="96.416" />
+</g><polygon
+     id="polygon4208"
+     points="16.623,199.481 16.623,345.766 216.104,345.766 216.104,152.935 "
+     style="fill:#a02c2c" /><polygon
+     id="polygon4210"
+     points="16.623,199.481 295.896,199.481 329.143,106.39 295.896,0 16.623,0 "
+     style="fill:#782121"
+     transform="scale(1,1.1969005)" /><g
+     id="g4220">
+	<rect
+   id="rect4212"
+   height="39.896"
+   width="319.16901"
+   style="fill:#782121"
+   y="79.792"
+   x="16.622999" />
+	<rect
+   id="rect4214"
+   height="66.494003"
+   width="39.896"
+   style="fill:#782121"
+   y="445.50699"
+   x="295.896" />
+	<rect
+   id="rect4216"
+   height="66.494003"
+   width="39.896"
+   style="fill:#782121"
+   y="445.50699"
+   x="455.48001" />
+	<rect
+   id="rect4218"
+   height="66.494003"
+   width="39.896"
+   style="fill:#782121"
+   y="445.50699"
+   x="375.68799" />
+</g><path
+     id="path4222"
+     d="M 295.896,0 V 465.455 H 495.377 V 0 Z"
+     style="fill:#a02c2c"
+     inkscape:connector-curvature="0" /><g
+     id="g4224">
+</g><g
+     id="g4226">
+</g><g
+     id="g4228">
+</g><g
+     id="g4230">
+</g><g
+     id="g4232">
+</g><g
+     id="g4234">
+</g><g
+     id="g4236">
+</g><g
+     id="g4238">
+</g><g
+     id="g4240">
+</g><g
+     id="g4242">
+</g><g
+     id="g4244">
+</g><g
+     id="g4246">
+</g><g
+     id="g4248">
+</g><g
+     id="g4250">
+</g><g
+     id="g4252">
+</g></g></svg>
