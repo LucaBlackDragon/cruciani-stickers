@@ -7,13 +7,41 @@
       "name": "Dressing Code",
       "publisher": "Corale Cruciani",
       "tray_image_file": "tray.webp",
-      "image_data_version":"1.1.0",
+      "image_data_version":"1.2.1",
       "avoid_cache":false,
       "publisher_email":"",
       "publisher_website": "http://www.corocruciani.it/",
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "stickers": [
+        {
+          "image_file": "maglia_colorata.webp",
+          "emojis": ["\uD83D\uDC55"]
+        },
+        {
+          "image_file": "dress.webp",
+          "emojis": ["\uD83D\uDC57"]
+        },
+        {
+          "image_file": "dress_collana.webp",
+          "emojis": ["\uD83D\uDC8E"]
+        },
+        {
+          "image_file": "dress_sciarpa.webp",
+          "emojis": ["\uD83E\uDDE3"]
+        },
+        {
+          "image_file": "dress_fiore.webp",
+          "emojis": ["\uD83C\uDF3C"]
+        },
+        {
+          "image_file": "cappotto_donna.webp",
+          "emojis": ["\uD83E\uDDE5"]
+        },
+        {
+          "image_file": "cappotto_donna_sciarpa.webp",
+          "emojis": ["\uD83E\uDDE5"]
+        },
         {
           "image_file": "camicia_bianca.webp",
           "emojis": ["\uD83D\uDC55"]
@@ -55,20 +83,12 @@
           "emojis": ["\uD83E\uDDE3"]
         },
         {
-          "image_file": "dress.webp",
-          "emojis": ["\uD83D\uDC57"]
+          "image_file": "cappotto_uomo.webp",
+          "emojis": ["\uD83E\uDDE5"]
         },
         {
-          "image_file": "dress_collana.webp",
-          "emojis": ["\uD83D\uDC8E"]
-        },
-        {
-          "image_file": "dress_sciarpa.webp",
-          "emojis": ["\uD83E\uDDE3"]
-        },
-        {
-          "image_file": "maglia_colorata.webp",
-          "emojis": ["\uD83D\uDC55"]
+          "image_file": "cappotto_uomo_sciarpa.webp",
+          "emojis": ["\uD83E\uDDE5"]
         }
       ]
     }
